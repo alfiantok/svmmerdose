@@ -553,6 +553,9 @@ footer{
 	.my-gallery{
 		margin-top: -250px;
 	}
+	.my-gallery-sc{
+		margin-top: 0px !important;
+	}
 	.the-video{
 		margin-top: 40px;
 		margin-bottom: 40px;
@@ -560,7 +563,7 @@ footer{
 	.text-youtube{
 		margin-bottom: 100px;
 	}
-	
+
 }
 
 
